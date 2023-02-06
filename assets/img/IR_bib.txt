@@ -1,0 +1,9 @@
+@article{xu2022iterative,
+  title={An iterative regularization method based on tensor subspace representation for hyperspectral image super-resolution},
+  author={Xu, Ting and Huang, Ting-Zhu and Deng, Liang-Jian and Yokoya, Naoto},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--16},
+  year={2022},
+  publisher={IEEE}
+}
