@@ -1,0 +1,8 @@
+@inproceedings{xu2021variational,
+  title={A Variational Approach with Nonlocal Self-Similarity and Joint-Sparsity for Hyperspectral Image Super-Resolution},
+  author={Xu, Ting and Huang, Ting-Zhu and Chen, Yong and Huang, Jie and Deng, Liang-Jian},
+  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
+  pages={2444--2447},
+  year={2021},
+  organization={IEEE}
+}
