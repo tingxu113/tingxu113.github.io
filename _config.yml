@@ -1,0 +1,46 @@
+# Basic Information 
+title: Jin-Liang Xiao
+position: Ph.D. Student
+affiliation: University of Electronic Science and Technology of China (UESTC)
+affiliation_link: https://www.uestc.edu.cn/
+email: jinliang_xiao@163.com
+
+# Search Engine Optimization (SEO)
+keywords: Jin-Liang Xiao, Jin-Liang Xiao, Jin-Liang Xiao, Jin-Liang Xiao
+canonical: https://jin-liangxiao.github.io/
+description: Jin-Liang Xiao is currently working toward the Ph.D. degree. His research lies in image fusion.
+
+# The option is used to enable the Johns Hopkins template.
+enable_jhu_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.com.hk/citations?user=g5xlNmkAAAAJ&hl=zh-CN
+cv_link: 
+github_link: https://github.com/Jin-liangXiao/
+linkedin: 
+twitter: 
+
+# Images 
+avatar: ./assets/img/IMG_9237-2_1-2.jpg
+favicon: ./assets/img/logo_english.png
+favicon_dark: ./assets/img/uestc.jpg
+
+# Footnotes
+# footnote: Feel free to use my website's source code.
+# footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+clustrmaps_id: l3lesztPwCz-uXlzFI1Lt9SB3Ctz-pBQuMdYqnD0Ul8
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
