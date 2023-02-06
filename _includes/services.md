@@ -11,7 +11,7 @@
     <p>09/2018-06/2020: University of Electronic Science and Technology of China (UESTC); Master student in Mathematics (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
   </li>
     <p>09/2014-06/2018: Mianyang Teachers’ College (MTC); Bachelor student in Mathematics</p>
-  </li>
+
 </ul>
 
 
