@@ -18,7 +18,6 @@
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/9777947" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/tingxu113/IRT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/IR_bib.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
@@ -42,7 +41,6 @@
       </div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1047320321002893" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/Exe.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
@@ -66,7 +64,6 @@
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/9554815" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/IGAR_bib.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
@@ -89,7 +86,6 @@
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/9151315" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/tuck_bib.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
