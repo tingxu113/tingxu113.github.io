@@ -41,6 +41,7 @@
       </div>
     <div class="links">
       <a href="https://www.sciencedirect.com/science/article/pii/S1047320321002893" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/tingxu113/JVCIR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/Exe.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
