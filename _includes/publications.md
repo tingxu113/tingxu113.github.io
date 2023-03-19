@@ -96,7 +96,7 @@
   
  <ul> 
 <li>Cheng-Wei Sun, Ting-Zhu Huang*, <strong>Ting Xu</strong>, Liang-Jian Deng*, "NF-3DLogTNN: An effective hyperspectral and multispectral image fusion method based on nonlocal low-fibered-rank regularization", <em>Applied Mathematical Modelling, 2023.</em></li>
-  <\ul>
+ </ul>
   
   
   
