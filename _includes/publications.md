@@ -32,7 +32,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Exe.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
-            <abbr class="badge">JVCI</abbr>
+            <abbr class="badge">JVCIR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1047320321002893">Exemplar-based image inpainting using adaptive two-stage structure-tensor based priority function and nonlocal filtering</a></div>
@@ -79,7 +79,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tuck.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
-            <abbr class="badge">JSTAR</abbr>
+            <abbr class="badge">JSTARS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9151315">Hyperspectral Image Superresolution Using Unidirectional Total Variation With Tucker Decomposition</a></div>
