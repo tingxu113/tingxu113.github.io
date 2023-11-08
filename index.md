@@ -31,7 +31,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
   <li>
     <p>2023.02- Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </p></li>
   <li> 
-    <p>2020.09-2022.06 Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a>)</p>
+    <p>2020.09-2022.06 Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a></p>
   </li> </ul>
 
 {% include_relative _includes/publications.md %}
