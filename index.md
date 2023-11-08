@@ -10,7 +10,7 @@ Starting in February 2023, I'm an intern with the [Geoinformatics Team](https://
 
 My research interests include **image processing**, **image fusion**, **tensor decomposition**, and **deep learning**.
 
-## Experiences
+## Experience
 
 <h4 style="margin:0 10px 0;">Education Experience</h4>
 
