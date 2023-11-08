@@ -34,6 +34,9 @@ My research interests include **image processing**, **image fusion**, **tensor d
     <p>2020.09-2022.06 Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a>)</p>
   </li>
 
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
 
 
 
