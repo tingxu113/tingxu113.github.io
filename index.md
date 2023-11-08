@@ -17,12 +17,12 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 <ul style="margin:0 0 5px;">
   <li>
-    <p>09/2020-Current: Ph. D. student of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+    <p>2020.O9-Current: Ph. D. student of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
   </li>
   <li>
-    <p>09/2018-06/2020: Master of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+    <p>2018.09-2020.06: Master of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
   </li>
-    <p>09/2014-06/2018: Bachelor of Mathematics and Applied Mathematics, Mianyang Teachers’ College (MTC), Mianyang, China </p>
+    <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, Mianyang Teachers’ College (MTC), Mianyang, China </p>
 
 </ul>
 
