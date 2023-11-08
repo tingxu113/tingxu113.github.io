@@ -1,5 +1,5 @@
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com.hk/citations?user=NMwLfkYAAAAJ&hl=zh-CN&oi=sra" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com.hk/citations?user=NMwLfkYAAAAJ&hl=zh-CN&oi=sra" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -120,11 +120,7 @@
 </li>  
   
  
-<div>
- <ul> 
-<li>Cheng-Wei Sun, Ting-Zhu Huang*, <strong>Ting Xu</strong>, Liang-Jian Deng*, "NF-3DLogTNN: An effective hyperspectral and multispectral image fusion method based on nonlocal low-fibered-rank regularization", <em>Applied Mathematical Modelling, 2023.</em></li>
- </ul>
-</div>
+
   
   
 
