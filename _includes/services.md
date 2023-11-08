@@ -21,8 +21,10 @@
 
 
 <ul>
-  <li>First-Class Academic Scholarship (学业一等奖学金), UESTC, 2022</li>
-  <li>Special Postgraduate Scholarship of Science (理科特别奖学金), UESTC, 2020</li>
+  <li> Academic Scholarship, UESTC, 2018-2023</li>
+  <li> Special Postgraduate Scholarship of Science, UESTC, 2018, 2020</li>
+  <li> Outstanding Graduate Student </li>
+  
 </ul>
 
 
