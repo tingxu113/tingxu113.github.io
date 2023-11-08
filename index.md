@@ -30,10 +30,10 @@ My research interests include **image processing**, **image fusion**, **tensor d
 <ul style="margin:0 0 5px;">
   <li>
     <p>2023.02-：Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </li>
-  <li>
-    <p>09/2018-06/2020: Master of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+  <li> 
+    <p>2020.09-2022.06: Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Yingcai Honors College of UESTC</a>)</p>
   </li>
-    <p>09/2014-06/2018: Bachelor of Mathematics and Applied Mathematics, Mianyang Teachers’ College (MTC), Mianyang, China </p>
+
 
 </ul>
 
