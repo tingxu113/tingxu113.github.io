@@ -12,7 +12,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 ## Experiences
 
-<h4 style="margin:0 10px 0;">Educations</h4>
+<h4 style="margin:0 10px 0;">Education Experience</h4>
 
 
 <ul style="margin:0 0 5px;">
@@ -25,6 +25,26 @@ My research interests include **image processing**, **image fusion**, **tensor d
     <p>09/2014-06/2018: Bachelor of Mathematics and Applied Mathematics, Mianyang Teachers’ College (MTC), Mianyang, China </p>
 
 </ul>
+
+<h4 style="margin:0 10px 0;">Work Experience:</h4>
+<ul style="margin:0 0 5px;">
+  <li>
+    <p>2023.02-：Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </li>
+  <li>
+    <p>09/2018-06/2020: Master of Mathematics, University of Electronic Science and Technology of China (UESTC), Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+  </li>
+    <p>09/2014-06/2018: Bachelor of Mathematics and Applied Mathematics, Mianyang Teachers’ College (MTC), Mianyang, China </p>
+
+</ul>
+
+
+
+
+
+{% include_relative _includes/publications.md %}
+
+
+{% include_relative _includes/services.md %}
 
 
 
