@@ -41,11 +41,6 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 
 
-{% include_relative _includes/publications.md %}
-
-
-{% include_relative _includes/services.md %}
-
 
 
 
