@@ -33,7 +33,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/IR-TenSR.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
-            <abbr class="badge">TGRS</abbr>
+            <abbr class="badge"> IEEE TGRS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9777947">An Iterative Regularization Method Based on Tensor Subspace Representation for Hyperspectral Image Super-Resolution</a></div>
@@ -81,7 +81,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/IGAR.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
-            <abbr class="badge">IGARSS</abbr>
+            <abbr class="badge">IEEE IGARSS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9554815">A Variational Approach with Nonlocal Self-Similarity and Joint-Sparsity for Hyperspectral Image Super-Resolution</a></div>
@@ -104,7 +104,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tuck.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
-            <abbr class="badge">JSTARS</abbr>
+            <abbr class="badge">IEEE JSTARS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/document/9151315">Hyperspectral Image Superresolution Using Unidirectional Total Variation With Tucker Decomposition</a></div>
