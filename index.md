@@ -23,7 +23,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
     <p>2018.09-2020.06: Master of Mathematics, School of Mathematical Sciences, UESTC (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
   </li>
   <li>
-    <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, College of Mathematics and Science, Mianyang Teachers’ College </p></li>
+    <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, School of Mathematics and Science, Mianyang Teachers’ College </p></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Work Experience</h4>
