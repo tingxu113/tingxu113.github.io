@@ -1,0 +1,9 @@
+@article{xu2020hyperspectral,
+  title={Hyperspectral image superresolution using unidirectional total variation with tucker decomposition},
+  author={Xu, Ting and Huang, Ting-Zhu and Deng, Liang-Jian and Zhao, Xi-Le and Huang, Jie},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={13},
+  pages={4381--4398},
+  year={2020},
+  publisher={IEEE}
+}
