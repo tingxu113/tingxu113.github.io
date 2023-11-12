@@ -10,7 +10,29 @@ Starting in Feb. 2023, I'm an intern with the [Geoinformatics Team](https://geoi
 
 My research interests include **image processing**, **image fusion**, **tensor decomposition**, and **deep learning**.
 
+## Experience
 
+<h4 style="margin:0 10px 0;">Education Experience</h4> 
+
+
+<ul style="margin:0 0 5px;">
+  <li>
+    <p>2020.09-Current: Ph. D student of Mathematics, School of Mathematical Sciences, UESTC (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p> 
+  </li>
+  <li>
+    <p>2018.09-2020.06: Master of Mathematics, School of Mathematical Sciences, UESTC (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+  </li>
+  <li>
+    <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, School of Mathematics and Science, Mianyang Teachers’ College </p></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Work Experience</h4>
+<ul style="margin:0 0 5px;">
+  <li>
+    <p>2023.02-Current: Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </p></li>
+  <li> 
+    <p>2020.09-2022.06: Bachelor's Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a></p>
+  </li> </ul>
 
 {% include_relative _includes/publications.md %}
 
