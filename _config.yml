@@ -3,12 +3,12 @@ title: Ting Xu (徐婷)
 position: Ph.D Student
 affiliation: UESTC
 affiliation_link: https://www.uestc.edu.cn/
-email: E-mail: tingxu113@163.com
+email: tingxu113@163.com
 
-# Search Engine Optimization (SEO) 
-keywords: Ting Xu, Ting Xu, Ting Xu
+# Search Engine Optimization (SEO)
+keywords: Ting Xu, Ting Xu, Ting Xu, Ting Xu
 canonical: https://tingxu113.github.io/
-description: Ting Xu is currently working toward the Ph.D. degree. Her research lies in image fusion.
+description: Ting Xu is currently working toward the Ph.D. degree. His research lies in image fusion.
 
 # The option is used to enable the Johns Hopkins template.
 enable_jhu_logo: false
@@ -24,12 +24,12 @@ linkedin:
 twitter: 
 
 # Images 
-avatar: ./assets/img/ting.JPG
+avatar: ./assets/img/ting.jpg
 favicon: ./assets/img/uestc.png
 favicon_dark: ./assets/img/uestc.png
 
 # Footnotes
-# footnote: Feel free to use my website's source code. 
+# footnote: Feel free to use my website's source code.
 # footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
