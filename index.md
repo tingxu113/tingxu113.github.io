@@ -12,7 +12,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 ## Experience
 
-<h4 style="margin:0 10px 0;">Education Experience</h4>
+<h4 style="margin:0 10px 0;">Education Experience</h4> 
 
 
 <ul style="margin:0 0 5px;">
