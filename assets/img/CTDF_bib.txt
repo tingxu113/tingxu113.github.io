@@ -1,0 +1,9 @@
+@ARTICLE{xu2024ctdf,
+  author={Xu, Ting and Huang, Ting-Zhu and Deng, Liang-Jian and Xiao, Jin-Liang and Broni-Bediako, Clifford and Xia, Junshi and Yokoya, Naoto},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A Coupled Tensor Double-Factor Method for Hyperspectral and Multispectral Image Fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2024.3389016}}
