@@ -11,6 +11,19 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 ## Experience
 
+
+<h4 style="margin:0 10px 0;">Work Experience</h4>
+<ul style="margin:0 0 5px;">
+  <li>
+    <p>2024.10-Current: Lecture, <a href="https://cmp.cdut.edu.cn/">College of Mathematics and Physics</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a></p></li>
+ 
+  <li>
+    <p>2023.02-2024.02: Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.cdut.edu.cn/">Chengdu University of Technology</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </p></li>
+  <li> 
+    <p>2020.09-2022.06: Bachelor's Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a></p>
+  </li> </ul>
+  
+
 <h4 style="margin:0 10px 0;">Education Experience</h4> 
 
 
@@ -25,16 +38,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
     <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, School of Mathematics and Science, Mianyang Teachers’ College, Mianyang, China </p></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Work Experience</h4>
-<ul style="margin:0 0 5px;">
-  <li>
-    <p>2024.10-Current: Lecture, <a href="https://cmp.cdut.edu.cn/">College of Mathematics and Physics</a>,  <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a></p></li>
- 
-  <li>
-    <p>2023.02-2024.02: Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>,  <a href="https://www.cdut.edu.cn/">Chengdu University of Technology</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </p></li>
-  <li> 
-    <p>2020.09-2022.06: Bachelor's Academic Navigator, <a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College of UESTC</a></p>
-  </li> </ul>
+
 
 
 {% include_relative _includes/publications.md %}
