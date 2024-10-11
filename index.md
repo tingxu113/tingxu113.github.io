@@ -19,7 +19,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
  
   <li>
     <p>2023.02-2024.02: Intern, <a href="https://geoinformatics2018.com/">Geoinformatics Team</a>, <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>, Team Leader: <a href="https://naotoyokoya.com/"> Prof. Naoto Yokoya</a> </p></li>
-
+</ul>
   
 
 <h4 style="margin:0 10px 0;">Education Experience</h4> 
