@@ -27,10 +27,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
 
 <ul style="margin:0 0 5px;">
   <li>
-    <p>2020.09-2024.06: Ph. D student of Mathematics, School of Mathematical Sciences, UESTC, Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p> 
-  </li>
-  <li>
-    <p>2018.09-2020.06: Master of Mathematics, School of Mathematical Sciences, UESTC, Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p>
+    <p>2018.09-2024.06: Ph. D student of Mathematics, School of Mathematical Sciences, UESTC, Chengdu, China (Supervisor: <a href="http://www.math.uestc.edu.cn/info/1081/2041.htm">Prof. Ting-Zhu Huang</a> and <a href="https://liangjiandeng.github.io/">Prof. Liang-Jian Deng</a>)</p> 
   </li>
   <li>
     <p>2014.09-2018.06: Bachelor of Mathematics and Applied Mathematics, School of Mathematics and Science, Mianyang Teachers’ College, Mianyang, China </p></li>
