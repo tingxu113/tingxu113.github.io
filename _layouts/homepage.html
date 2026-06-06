@@ -36,8 +36,21 @@
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
 
   </head>
+
+  
+
+
+  
   <body>
     {% if site.enable_jhu_logo %}
+
+
+
+
+
+
+
+    
     <lightonly>
       <div id="head1o2">
       <div id="myheader" style="BACKGROUND:#002D72 ;MARGIN: 0px auto; height: 65px;">
@@ -49,6 +62,19 @@
       </lightonly>
     {% endif %}
 
+<!-- Top Navigation Bar -->
+<nav class="top-nav">
+  <div class="top-nav-inner">
+    <span class="top-nav-brand">Ting Xu</span>
+    <div class="top-nav-links">
+      <a href="#about" class="top-nav-link" data-target="about">About</a>
+      <a href="#publications" class="top-nav-link" data-target="publications">Publications</a>
+      <a href="#experiences" class="top-nav-link" data-target="experiences">Experiences</a>
+      <a href="#reviewer" class="top-nav-link" data-target="reviewer">Reviewer</a>
+      <a href="#awards" class="top-nav-link" data-target="awards">Awards</a>
+    </div>
+  </div>
+</nav>
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
         backgroundColor: '#fff',
@@ -121,11 +147,31 @@
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
+
+        {% if site.researchgate %}
+        <a style="margin: 0 5px 0 0" href="{{ site.researchgate }}">
+          <i class="ai ai-researchgate" aria-hidden="true"></i> 
+        </a>
+        {% endif %}
+          
         </div>
         <br>
 
+
+<!-- Google Scholar Citation Badge -->
+<div class="gs-citation-box">
+  <div class="gs-icon"><i class="ai ai-google-scholar"></i></div>
+  <div class="gs-info">
+    <span class="gs-count" id="gs-citation-count">—</span>
+    <span class="gs-label">citations</span>
+  </div>
+</div>
+
+
       </header>
       <section>
+
+
 
       {{ content }}
 
@@ -150,16 +196,12 @@
       </div>
       {% endif %}
 
-        
-        
 
-        
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xczuhq4wzz&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=245" async="async"></script>      
-        
-        
-      <br>
+   <a href="https://info.flagcounter.com/hopE"><img src="https://s01.flagcounter.com/map/hopE/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" style="margin-top:12px;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.1);" /></a>        
+     
+     <br>
       {% if site.clustrmaps_id %}
-      <div style="width:100px; pointer-events: none;">
+      <div style="width:80px; pointer-events: none;">
       
       </div>
       {% endif %}
@@ -183,5 +225,6 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/toc-citation.js" | relative_url }}"></script>
   </body>
 </html>
