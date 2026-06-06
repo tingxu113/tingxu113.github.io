@@ -5,6 +5,23 @@
 <ol class="bibliography">
 
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ctw.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
+            <abbr class="badge">IEEE TGRS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11538234">Hyperspectral and Multispectral Image Fusion via Coupled Tensor Wheel Decomposition</a></div>
+      <div class="author"><strong>Ting Xu</strong>, Jin-Liang Xiao, Ya-Ru Fan, Liu Liu, Liang-Jian Deng*</div>
+      <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing, 2026.</em>
+      </div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
