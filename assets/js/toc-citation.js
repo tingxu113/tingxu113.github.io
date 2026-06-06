@@ -2,7 +2,7 @@
 (function() {
   var countEl = document.getElementById('gs-citation-count');
   if (!countEl) return;
-  var url = 'https://raw.githubusercontent.com/Jin-liangXiao/Jin-liangXiao.github.io/google-scholar-stats/gs_data_shieldsio.json';
+  var url = 'https://raw.githubusercontent.com/tingxu113/tingxu113.github.io/google-scholar-stats/gs_data_shieldsio.json';
   var fallbackUrl = './assets/data/gs_data_shieldsio.json';
   fetch(url)
     .then(function(r) { return r.json(); })
