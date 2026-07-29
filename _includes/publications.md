@@ -20,7 +20,7 @@
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/11538234" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/tingxu113/CTW_Fusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTW_fusion" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTW_fusion.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
 </div>
