@@ -19,7 +19,7 @@ My research interests include **image processing**, **image fusion**, **tensor d
 <h4 style="margin:0 10px 0;">Work Experience</h4>
 <ul style="margin:0 0 5px;">
   <li>
-    <p>2024.10-Current: Assistant Researcher, <a href="https://math.cdut.edu.cn/">School of Mathematical Sciences</a>, <a href="https://www.cdut.edu.cn/">Chengdu University of Technology</a> </p></li>
+    <p>2024.10-Current: <a href="https://math.cdut.edu.cn/">School of Mathematical Sciences</a>, <a href="https://www.cdut.edu.cn/">Chengdu University of Technology</a> </p></li>
 
 </ul>
   
