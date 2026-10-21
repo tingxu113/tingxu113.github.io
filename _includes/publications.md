@@ -13,12 +13,12 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11538234">A Deep-Learning-Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion</a></div>
       <div class="author"><strong>Wei Zhang, Liu Liu*, Ting Xu*</strong>, Liang-Jian Deng</div>
-      <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing, 2026.</em>
+      <div class="periodical"><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026.</em>
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/11616707" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/tingxu113/DLSpVO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTW_Fusion.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/DLSpVO.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
 </div>
