@@ -53,7 +53,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11538234">A Deep-Learning-Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion</a></div>
-      <div class="author"><strong>Wei Zhang, Liu Liu*, Ting Xu*</strong>, Liang-Jian Deng</div>
+      <div class="author">Wei Zhang, Liu Liu*, <strong>Ting Xu*</strong>, Liang-Jian Deng</div>
       <div class="periodical"><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2026.</em>
       </div>
     <div class="links">
