@@ -4,6 +4,45 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/JSTARS2026.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
+            <abbr class="badge">IEEE JSTARS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11538234">A Deep-Learning-Embedded Sparse Variational Optimization Method for Hyperspectral and Multispectral Image Fusion</a></div>
+      <div class="author"><strong>Wei Zhang, Liu Liu*, Ting Xu*</strong>, Liang-Jian Deng</div>
+      <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing, 2026.</em>
+      </div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/abstract/document/11616707" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/tingxu113/DLSpVO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTW_Fusion.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CTDF.png" width="200px" class="teaser img-fluid z-depth-1" style="width=100;height=30%">
+            <abbr class="badge">IEEE TGRS</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://ieeexplore.ieee.org/document/10500430">A Coupled Tensor Double-Factor Method for Hyperspectral and Multispectral Image Fusion</a></div>
+      <div class="author"><strong>Ting Xu</strong>, Ting-Zhu Huang*, Liang-Jian Deng*, Jin-Liang Xiao, Clifford Broni-Bediako, Junshi Xia, Naoto Yokoya</div>
+      <div class="periodical"><em>IEEE Transactions on Geoscience and Remote Sensing, 2024.</em>
+      </div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10500430" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/tingxu113/CTDF" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/tingxu113/tingxu113.github.io/blob/main/assets/img/CTDF_bib.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+    </div>
+  </div>
+</div>
+</li>
 
 
 <li>
